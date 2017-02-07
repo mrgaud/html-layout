@@ -1,0 +1,36 @@
+html, body{
+  height: 100%;
+  margin: 0;
+}
+
+.blue{
+ background-color: #5290E0;
+ width: 33%;
+ height: 100%;
+ display: inline-block;
+ float: left;
+
+}
+.teal{
+  background-color: #53E4C3;
+display: inline-block;
+width: 33%;
+height: 100%;
+float: left;
+}
+.green{
+  background-color: #B7EA8B;
+display: inline-block;
+width: 34%;
+height: 75%;
+float: left;
+}
+.red{
+  color: white;
+  text-align: center;
+  font-size: 3em;
+background-color: #CF001A;
+display: inline-block;
+width: 34%;
+height: 100%;
+}
